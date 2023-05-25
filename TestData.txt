@@ -1,0 +1,10 @@
+Huffman Coding: 
+This C project implements Huffman coding, an efficient algorithm for data compression. 
+It constructs a Huffman tree, with multi-layered nodes based on character frequencies and generates 
+variable-length codes. 
+The project compresses a text file by replacing characters with their corresponding codes, achieving a compact 
+representation. 
+It also includes functionality for decompressing the compressed data back to its original form. 
+The project evaluates the compression ratio and measures the time taken for compression and decompression. 
+By exploring Huffman coding, we have understand its effectiveness in reducing file sizes and its significance 
+in data compression applications.
