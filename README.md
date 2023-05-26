@@ -1,7 +1,9 @@
+//This is a modified project project from the previuosly existing ones. This project aims to compress files using Huffman Compression Algorithm, where the code is built in C programming language.
+
 Title: Huffman Coding: Efficient Data Compression Algorithm
 
 Introduction:
-Huffman coding, named after David A. Huffman, is a widely used algorithm for data compression. It provides a lossless compression technique that reduces the size of data files without compromising the original information. This project aims to implement Huffman coding in the C programming language, showcasing its efficiency in compressing and decompressing textual data.
+Huffman coding, named after David A. Huffman, is a widely used algorithm for data compression. It provides a lossless compression technique that reduces the size of data files without compromising the original information. This project aims to implement Huffman coding, and showcase its efficiency in compressing and decompressing textual data.
 
 Overview of Huffman Coding:
 Huffman coding is a variable-length prefix coding algorithm. It assigns shorter codes to frequently occurring characters and longer codes to less common ones, resulting in a compact representation of the input data. The algorithm constructs a binary tree, known as the Huffman tree, based on the frequency of characters in the input file. The tree is then used to generate unique codes for each character.
